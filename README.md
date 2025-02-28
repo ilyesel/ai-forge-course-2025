@@ -32,7 +32,7 @@ Welcome to the **AI Forge Program**! This program is designed to guide you throu
 ## Assignments
 
 1. All assignments will be done in [Github Classrooms](https://classroom.github.com/classrooms)
-![Github_classrooms_assignment_example](github_classrooms.png)
+![Github_classrooms_assignment_example](assets/github_classrooms.png)
 
 ---
 
