@@ -10,7 +10,7 @@ Welcome to the **AI Forge Program**! This program is designed to guide you throu
 
 | Week | Unit Name                              | Link to Course (GitHub Folder)                                    | Link to Notebook                                                     |
 |:----:|:---------------------------------------|:------------------------------------------------------------------:|:---------------------------------------------------------------------:|
-|  1   | **Array Algebra and NumPy**            | [Week 1 Folder](https://github.com/your-repo/AI-Forge/tree/main/Week1) | [Week 1 Notebook](https://github.com/your-repo/AI-Forge/blob/main/Week1/Week1_Notebook.ipynb) |
+|  1   | **Array Algebra and NumPy**            | [Week 1 Folder](1_courses/2_advanced_track/1_array_algebra/) | [Week 1 Notebook](1_courses/2_advanced_track/1_array_algebra/array_algebra.ipynb) |
 |  2   | **Probabilistic Thinking and ML**      | [Week 2 Folder](https://github.com/your-repo/AI-Forge/tree/main/Week2) | [Week 2 Notebook](https://github.com/your-repo/AI-Forge/blob/main/Week2/Week2_Notebook.ipynb) |
 |  3   | **Deep and Semi-supervised Learning**  | [Week 3 Folder](https://github.com/your-repo/AI-Forge/tree/main/Week3) | [Week 3 Notebook](https://github.com/your-repo/AI-Forge/blob/main/Week3/Week3_Notebook.ipynb) |
 |  4   | **Computer Vision**                    | [Week 4 Folder](https://github.com/your-repo/AI-Forge/tree/main/Week4) | [Week 4 Notebook](https://github.com/your-repo/AI-Forge/blob/main/Week4/Week4_Notebook.ipynb) |
