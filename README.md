@@ -4,7 +4,7 @@
 
 Welcome to the **AI Forge Program**! This program is designed to guide you through the foundations of Artificial Intelligence, Machine Learning, and Deep Learning over the course of seven weeks. Each week contains a dedicated folder with course materials, as well as corresponding Jupyter Notebooks to solidify your understanding with hands-on exercises.
 
-For further details about the program, check the following ![presentation](https://docs.google.com/presentation/d/1k9uvUfqTMalT8j9SnzeksyGvld_eqSPvc23mf_nkapc/edit#slide=id.p)
+For further details about the program, check the following [presentation](https://docs.google.com/presentation/d/1k9uvUfqTMalT8j9SnzeksyGvld_eqSPvc23mf_nkapc/edit#slide=id.p)
 
 ---
 
